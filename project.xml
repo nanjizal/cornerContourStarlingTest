@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <window
+        fps="60" 
+        width="1024"
+        height="768"
+        background="0x181818"
+        orientation="landscape"
+        vsync="false"
+        antialiasing="4"
+    />
+  <app main="pi_xy._application.TestStarling" file="Application" path="Export"/>
+  <source path="src" />
+  <haxelib name="lime" />
+  <haxelib name="openfl" />
+  <haxelib name="justPath" />
+  <haxelib name="iterMagic" />
+  <haxelib name="format" />
+  <haxelib name="starling"/>
+  <haxelib name="fracs"/>
+  <haxelib name="cornerContour"/>
+</project>

@@ -1,0 +1,12 @@
+{
+    "name"         : "cornerContourStarlingTest",
+    "url"          : "https://github.com/nanjizal/cornerContourStarlingTest#cornerContourStarlingTest",
+    "license"      : "MIT",
+    "tags"         : ["cross", "triangles", "2d", "gl", "starling"],
+    "description"  : "cornerContour sample, openfl, starling",
+    "version"      : "0.0.1-alpha",
+    "releasenote"  : "See https://github.com/nanjizal/cornerContourStarlingTest/blob/master/CHANGELOG.md",
+    "contributors" : ["Nanjizal"],
+    "classPath"    : "src/",
+    "dependencies" : {}
+}
